@@ -8,11 +8,14 @@ Features
 
 Monitor GPU usage and temperature
 Monitor CPU usage, frequency, logical cores, and uptime
+
 ![image](https://github.com/user-attachments/assets/ab3d3834-ff9a-4baa-95ff-34e86d6e636c)
+
 Monitor memory usage
 Monitor disk usage for multiple disks
 Terminate running applications
- ![image](https://github.com/user-attachments/assets/300661a8-7548-403f-b010-2bcf86c9f0f5)
+
+![image](https://github.com/user-attachments/assets/300661a8-7548-403f-b010-2bcf86c9f0f5)
 
 
 About This Project
